@@ -1,0 +1,13 @@
+GET /service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=&prodversion=110.0.5481.105&lang=en-US&acceptformat=crx3&x=id%3Dgcodaohiclimdbpgfhnimcolninnacpl%26v%3D0.0.0.0%26installedby%3Dexternal%26uc%26brand%3DGCEA HTTP/1.1
+Host: clients2.google.com
+Connection: keep-alive
+X-Goog-Update-Interactivity: bg
+X-Goog-Update-AppId: gcodaohiclimdbpgfhnimcolninnacpl
+X-Goog-Update-Updater: chromecrx-110.0.5481.105
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

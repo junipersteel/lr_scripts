@@ -1,0 +1,178 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1698354056749
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1698354056825
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1698354056946
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: collect",
+                "infFile": "t4.inf",
+                "time": 1698354056984
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: categories",
+                "infFile": "t5.inf",
+                "time": 1698354057125
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: search",
+                "infFile": "t6.inf",
+                "time": 1698354057290
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t7.inf",
+                "time": 1698354057319
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: home-page.html",
+                "infFile": "t8.inf",
+                "time": 1698354057423
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t9.inf",
+                "time": 1698354057579
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: products",
+                "infFile": "t10.inf",
+                "time": 1698354058015
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: attributes",
+                "infFile": "t11.inf",
+                "time": 1698354058348
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: category-page.html",
+                "infFile": "t12.inf",
+                "time": 1698354058387
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: json_3",
+                "infFile": "t13.inf",
+                "time": 1698354058468
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: 19",
+                "infFile": "t14.inf",
+                "time": 1698354058682
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: products_2",
+                "infFile": "t15.inf",
+                "time": 1698354059090
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: product-page.html",
+                "infFile": "t16.inf",
+                "time": 1698354059197
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: all_data",
+                "infFile": "t17.inf",
+                "time": 1698354060077
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: search-page.html",
+                "infFile": "t20.inf",
+                "time": 1698354061275
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: crx",
+                "infFile": "t21.inf",
+                "time": 1698354061443
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: email",
+                "infFile": "t22.inf",
+                "time": 1698354061476
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "trx_Landing_Page",
+                "rawStartTime": 1698354054850,
+                "rawEndTime": 1698354057581,
+                "thinkTime": 0.0,
+                "wastedTime": 1.4599905014038087
+            },
+            {
+                "transactionName": "trx_Speakers_Link",
+                "rawStartTime": 1698354057613,
+                "rawEndTime": 1698354058470,
+                "thinkTime": 0.0,
+                "wastedTime": 0.022357702255249025
+            },
+            {
+                "transactionName": "trx_Speakers_BuyNow",
+                "rawStartTime": 1698354058500,
+                "rawEndTime": 1698354059092,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007938861846923828
+            },
+            {
+                "transactionName": "trx_Tablets_Link",
+                "rawStartTime": 1698354059122,
+                "rawEndTime": 1698354060079,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012095451354980469
+            },
+            {
+                "transactionName": "trx_Tablets_BuyNow",
+                "rawStartTime": 1698354060125,
+                "rawEndTime": 1698354061190,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009777069091796875
+            },
+            {
+                "transactionName": "trx_Search_Mice",
+                "rawStartTime": 1698354061218,
+                "rawEndTime": 1698354061277,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007894039154052735
+            },
+            {
+                "transactionName": "trx_Contact_Us",
+                "rawStartTime": 1698354061313,
+                "rawEndTime": 1698354061479,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01222372055053711
+            }
+        ]
+    }
+]

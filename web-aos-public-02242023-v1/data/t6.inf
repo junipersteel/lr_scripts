@@ -1,0 +1,11 @@
+[t6]
+FileName1=t6.txt
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j99&a=1945520715&t=pageview&_s=1&dl=http%3A%2F%2Fadvantageonlineshopping.com%2F&dp=%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1920x1080&vp=1920x937&je=0&_u=IEBAAEABAAAAACAAI~&jid=398906760&gjid=901649059&cid=2026495771.1677273847&tid=UA-81334227-1&_gid=785204948.1677273847&_r=1&_slc=1&z=778306008
+Total=1
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_6.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

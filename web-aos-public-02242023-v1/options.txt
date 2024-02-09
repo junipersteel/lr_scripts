@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\work\OT_VUGen_Scripts\web-aos-public-02242023-v1
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\work\ot_vugen_scripts\web-aos-public-02242023-v1\\logfile.log
+c:\work\ot_vugen_scripts\web-aos-public-02242023-v1\\combined_web-aos-public-02242023-v1.c
+c:\work\ot_vugen_scripts\web-aos-public-02242023-v1\\pre_cci.c

@@ -1,0 +1,15 @@
+[t5]
+FileName1=t5.xml
+URL1=http://advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest
+Total=3
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=t5_RequestBody.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_analytics.html
+URL2=https://www.google-analytics.com/analytics.js
+FileName3=t5_ChVDaHJvbWUvMTEwLjAuNTQ4MS4xMDUSJQmFBxXK5HnC-BIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=.txt
+URL3=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTEwLjAuNTQ4MS4xMDUSJQmFBxXK5HnC-BIFDeeNQA4SBQ3OQUx6EgUNeG8SGRIFDQ8Wvis=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb
