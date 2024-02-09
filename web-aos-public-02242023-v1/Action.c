@@ -1,6 +1,6 @@
 Action()
 {
- // ere1234
+ // ere1234tyyy
 	int i;
 	web_add_auto_header("Accept-Language", 
 		"en-US,en;q=0.9");
