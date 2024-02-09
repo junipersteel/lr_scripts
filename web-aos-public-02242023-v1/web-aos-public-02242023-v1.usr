@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="trx_Landing_Page__*delimiter*__trx_Tablets_BuyNow__*delimiter*__trx_Speakers_BuyNow__*delimiter*__trx_Speakers_Link__*delimiter*__trx_Tablets_Link__*delimiter*__trx_Search_Mice__*delimiter*__trx_Contact_Us"
+Order="trx_Landing_Page__*delimiter*__trx_Speakers_Link__*delimiter*__trx_Speakers_BuyNow__*delimiter*__trx_Tablets_Link__*delimiter*__trx_Tablets_BuyNow__*delimiter*__trx_Search_Mice__*delimiter*__trx_Contact_Us"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,9 +60,9 @@ LastReplayedRunName=
 ActiveRunName=
 [Transactions]
 trx_Landing_Page=
-trx_Tablets_BuyNow=
-trx_Speakers_BuyNow=
 trx_Speakers_Link=
+trx_Speakers_BuyNow=
 trx_Tablets_Link=
+trx_Tablets_BuyNow=
 trx_Search_Mice=
 trx_Contact_Us=
